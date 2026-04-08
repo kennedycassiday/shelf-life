@@ -1,0 +1,640 @@
+{
+  "metadata": {
+    "title": "Banned and Challenged Books by Women Authors",
+    "description": "A dataset of books by women authors that have been challenged or banned in U.S. schools, libraries, and public institutions. Data sourced primarily from the American Library Association (ALA) Office for Intellectual Freedom annual Top 10 lists (2001–2024), PEN America Book Ban Index, and documented challenge records.",
+    "sources": [
+      "American Library Association (ALA) Frequently Challenged Books — ala.org/bbooks",
+      "ALA Top 10 Most Challenged Books Archive — ala.org/bbooks/frequentlychallengedbooks/top10/archive",
+      "ALA 100 Most Frequently Challenged Books — ala.org/bbooks/frequentlychallengedbooks/top100",
+      "PEN America Book Ban Index — pen.org/book-bans",
+      "ALA Office for Intellectual Freedom Blog — oif.ala.org",
+      "CMU Banned Books Project — bannedbooks.library.cmu.edu"
+    ],
+    "date_compiled": "2026-04-07",
+    "total_entries": 46,
+    "notes": "years_challenged lists years the title appeared on the ALA Top 10 list and/or years of documented formal challenges. location reflects the most notable or documented challenge sites; many books faced challenges across dozens of districts. outcome reflects the most commonly documented result; individual challenge outcomes vary by district."
+  },
+  "books": [
+    {
+      "title": "I Know Why the Caged Bird Sings",
+      "author": "Maya Angelou",
+      "year_published": 1969,
+      "years_challenged": [1983, 1995, 2001, 2002, 2004, 2007],
+      "location": "Alabama State Textbook Committee; California; Texas; Georgia; Virginia; Pennsylvania (multiple districts)",
+      "reason_for_challenge": [
+        "depictions of rape and sexual abuse",
+        "anti-white sentiment",
+        "offensive language and profanity",
+        "homosexual themes"
+      ],
+      "outcome": "Retained in most cases; removed or restricted in some districts. Has faced 39+ documented public challenges or bans since 1983."
+    },
+    {
+      "title": "The Bluest Eye",
+      "author": "Toni Morrison",
+      "year_published": 1970,
+      "years_challenged": [1994, 1998, 2006, 2013, 2014, 2020, 2021, 2022, 2023, 2024],
+      "location": "Wentzville, MO; Colton, CA; Polk County, FL; Pinellas County, FL; Rocky River, OH; Bedford County, VA; Spotsylvania County, VA",
+      "reason_for_challenge": [
+        "child sexual abuse depictions",
+        "sexually explicit content",
+        "offensive language",
+        "racial content",
+        "\"socialist-communist agenda\""
+      ],
+      "outcome": "Removed in Wentzville, MO and Pinellas County, FL. Retained after review in Rocky River, OH and Colton, CA. Quarantined pending review in Polk County, FL. Ranked #34 most challenged 1990–1999, #15 for 2000–2009, #10 for 2010–2019."
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "years_challenged": [2006, 2007, 2012, 2016, 2022],
+      "location": "Louisville, KY (Eastern High School); Plymouth Canton, MI; Polk County, FL; Spotsylvania County, VA; Virginia State Senate",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "graphic violence",
+        "depictions of slavery",
+        "\"moral sewage\" (VA State Senator, 2016)"
+      ],
+      "outcome": "Removed from AP English curriculum in Louisville, KY; removed from all English curricula in Plymouth Canton, MI; quarantined in Polk County, FL; removed in Spotsylvania County, VA."
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "year_published": 1982,
+      "years_challenged": [1984, 1985, 1986, 1989, 1990, 1992, 1995, 1996, 1997, 1999, 2002, 2007, 2008, 2009],
+      "location": "Oakland, CA; Newport News, VA; Souderton, PA; Morgantown, NC; Texas State Prisons; Clay County, FL",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "homosexual themes",
+        "violence and rape depictions",
+        "offensive language and profanity",
+        "religious objections",
+        "portrayal of Black men"
+      ],
+      "outcome": "Retained after nine-month debate in Oakland, CA. Placed in restricted section (18+) in Newport News, VA (1986). Banned in Souderton, PA (1992). Permanently removed from Clay County, FL schools (January 2024). Banned from all Texas State Prisons (2017)."
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_published": 1985,
+      "years_challenged": [1988, 1992, 2000, 2006, 2019, 2021, 2022],
+      "location": "Judson, TX; Upper Moreland, PA; Guilford County, NC; Madison County, VA; Goddard, KS; Edmonton, Alberta, Canada",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "profanity",
+        "anti-Christian themes",
+        "dystopian and violent content",
+        "feminist ideology",
+        "LGBTQ+ characters"
+      ],
+      "outcome": "Superintendent's ban overturned in Judson, TX. Downgraded from required to optional in Upper Moreland, PA. Banned from high school libraries in Madison County, VA. Removed from 29 titles list in Goddard, KS (2021). Temporarily banned in Edmonton, Alberta; ban paused after public backlash."
+    },
+    {
+      "title": "Harry Potter series",
+      "author": "J.K. Rowling",
+      "year_published": 1997,
+      "years_challenged": [1999, 2000, 2001, 2002, 2003, 2006, 2019],
+      "location": "Alamogordo, NM (book burning, 2001); Gwinnett County, GA (2006); St. Edward School, Nashville, TN",
+      "reason_for_challenge": [
+        "witchcraft and occult content",
+        "religious objections",
+        "promotion of Wicca",
+        "conjuring evil spirits"
+      ],
+      "outcome": "Book burning held in Alamogordo, NM (2001). School Board upheld retention in Gwinnett County, GA. Removed from St. Edward Catholic School library, Nashville, TN. Ranked #1 most challenged 2001, 2002, 2003; appeared on 2019 Top 10 list."
+    },
+    {
+      "title": "Forever",
+      "author": "Judy Blume",
+      "year_published": 1975,
+      "years_challenged": [1980, 1982, 1983, 1984, 1985, 1986, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2005, 2023],
+      "location": "Multiple districts in Texas, Pennsylvania, Utah, Florida; Martin County, FL",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "offensive language",
+        "age-inappropriate for young readers"
+      ],
+      "outcome": "Removed from Martin County, FL middle and high schools (2023). #7 most challenged book of the 1990s per ALA. Challenged across dozens of districts nationwide, removed in many."
+    },
+    {
+      "title": "Are You There God? It's Me, Margaret",
+      "author": "Judy Blume",
+      "year_published": 1970,
+      "years_challenged": [1980, 1981, 1982, 1983, 2022],
+      "location": "Gilbert, AZ; Tuscaloosa, AL; Zimmerman, MN; Katy Independent School District, TX",
+      "reason_for_challenge": [
+        "religious content and questioning of God",
+        "discussion of menstruation and puberty",
+        "sexually explicit content",
+        "age-inappropriate"
+      ],
+      "outcome": "Removed from elementary school libraries in Gilbert, AZ (1980). Challenged in Tuscaloosa, AL (1982). Required parental permission in Zimmerman, MN. Pulled from Katy ISD, TX elementary schools (2022)."
+    },
+    {
+      "title": "Deenie",
+      "author": "Judy Blume",
+      "year_published": 1973,
+      "years_challenged": [1982, 1983, 1984, 1985, 1990, 1991, 1992, 1993, 1994, 1995, 1996],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "masturbation references",
+        "sexually explicit content",
+        "age-inappropriate"
+      ],
+      "outcome": "Removed or restricted in multiple school libraries and curricula."
+    },
+    {
+      "title": "Blubber",
+      "author": "Judy Blume",
+      "year_published": 1974,
+      "years_challenged": [1983, 1984, 1985, 1986, 1990, 1991, 1992, 1993, 1994, 1995],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "offensive language",
+        "bullying themes",
+        "unsuitable moral content"
+      ],
+      "outcome": "Removed or restricted in multiple school libraries."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "years_challenged": [1966, 1977, 1981, 1984, 2017, 2018, 2020],
+      "location": "Hanover County, VA (1966); Eden Valley, MN; Warren, IN; Waukegan, IL; Duluth, MN (2018)",
+      "reason_for_challenge": [
+        "racial slurs and offensive language",
+        "rape themes",
+        "\"immoral\" content",
+        "institutionalized racism framing",
+        "unsuitable for age group"
+      ],
+      "outcome": "School board reversed its removal decision in Hanover County, VA (1966) after public outcry and Lee's own criticism. Removed from Duluth, MN middle school curricula (2018). Challenged repeatedly but retained in most districts."
+    },
+    {
+      "title": "Speak",
+      "author": "Laurie Halse Anderson",
+      "year_published": 1999,
+      "years_challenged": [2010, 2020, 2021, 2022, 2023],
+      "location": "Republic, MO; Iowa (14 school districts under Senate File 496); Texas; Florida; Idaho; North Carolina; Pennsylvania; Tennessee",
+      "reason_for_challenge": [
+        "depictions of rape and sexual assault",
+        "sexually explicit content",
+        "profanity",
+        "political viewpoint",
+        "claimed to be biased against male students"
+      ],
+      "outcome": "Challenged as \"soft pornography\" in Republic, MO (2010). Banned in 14 Iowa school districts under Senate File 496; law temporarily blocked December 2023 by court order. Banned 14 times in 2022–2023 school year per PEN America."
+    },
+    {
+      "title": "Crank",
+      "author": "Ellen Hopkins",
+      "year_published": 2004,
+      "years_challenged": [2010, 2011, 2013, 2014, 2022, 2023],
+      "location": "Lehighton Area School District, PA; Rockwall ISD, TX; Flagler County, FL; Matanuska-Susitna Borough School District, AK; Buncombe County, NC",
+      "reason_for_challenge": [
+        "drug use depictions",
+        "sexually explicit content",
+        "offensive language"
+      ],
+      "outcome": "Removed from Rockwall ISD, TX without formal review process. Removed in Matanuska-Susitna Borough, AK. #9 most banned book of 2022–23 school year with 23 bans per PEN America. Between 2021–2023, Hopkins' 19 titles were banned 268 times across 68 districts."
+    },
+    {
+      "title": "Tricks",
+      "author": "Ellen Hopkins",
+      "year_published": 2009,
+      "years_challenged": [2022, 2023, 2024],
+      "location": "Buncombe County Schools, NC; Rockwall ISD, TX; Matanuska-Susitna Borough, AK; Lehighton Area School District, PA",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "depictions of rape",
+        "drug use",
+        "LGBTQ+ content"
+      ],
+      "outcome": "Removed unanimously by Buncombe County Board of Education, NC. Removed in Rockwall ISD, TX and Matanuska-Susitna Borough, AK. #1 most banned book of 2022–23 school year with 33 bans per PEN America."
+    },
+    {
+      "title": "Glass",
+      "author": "Ellen Hopkins",
+      "year_published": 2007,
+      "years_challenged": [2022, 2023],
+      "location": "Multiple school districts in Texas, Pennsylvania, Alaska",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "drug use depictions",
+        "offensive language"
+      ],
+      "outcome": "Removed in multiple districts. Part of the 268 total bans of Hopkins' works across 68 districts between 2021–2023."
+    },
+    {
+      "title": "The Hate U Give",
+      "author": "Angie Thomas",
+      "year_published": 2017,
+      "years_challenged": [2017, 2018, 2020, 2021, 2022],
+      "location": "Katy ISD, TX; Edgerton Public Schools, MN; Collier County Public Schools, FL; Rankin County, MS",
+      "reason_for_challenge": [
+        "profanity",
+        "violence",
+        "drug use",
+        "anti-police sentiment",
+        "\"indoctrination of a social agenda\""
+      ],
+      "outcome": "Reinstated with parental permission requirement in Katy ISD, TX after 4,000-signature student petition. Removed from freshman curriculum in Edgerton, MN (5-0 vote). Reinstated in Rankin County, MS after legal pressure."
+    },
+    {
+      "title": "Twilight series",
+      "author": "Stephenie Meyer",
+      "year_published": 2005,
+      "years_challenged": [2009, 2010],
+      "location": "Brockbank Junior High, Magna, UT; Austin Memorial Library, Cleveland, TX",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "age-inappropriate",
+        "religious viewpoints",
+        "occult and vampire themes"
+      ],
+      "outcome": "Challenged at Brockbank Junior High, UT (2009). Challenged at Austin Memorial Library, TX for \"occultic and demonic\" content. Appeared on ALA Top 10 list in 2009 and 2010."
+    },
+    {
+      "title": "The Hunger Games trilogy",
+      "author": "Suzanne Collins",
+      "year_published": 2008,
+      "years_challenged": [2010, 2011, 2012, 2013, 2014],
+      "location": "Goffstown, NH; Missouri (middle school); multiple districts",
+      "reason_for_challenge": [
+        "graphic violence",
+        "anti-family content",
+        "anti-ethnic content",
+        "offensive language",
+        "occult and satanic themes",
+        "religious viewpoints"
+      ],
+      "outcome": "Retained with warning label and moved to optional reading list in Missouri. Parent challenged book in Goffstown, NH claiming it gave children nightmares. Ranked #3 most challenged in 2011; #5 in 2016."
+    },
+    {
+      "title": "ttyl; ttfn; l8r, g8r series",
+      "author": "Lauren Myracle",
+      "year_published": 2004,
+      "years_challenged": [2007, 2008, 2009, 2011],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "offensive language",
+        "drug use",
+        "anti-family themes"
+      ],
+      "outcome": "#1 most challenged book in 2009 and 2011 per ALA. Challenged widely across U.S. schools and libraries."
+    },
+    {
+      "title": "Alice series",
+      "author": "Phyllis Reynolds Naylor",
+      "year_published": 1985,
+      "years_challenged": [2002, 2003, 2004, 2006, 2007, 2008, 2011],
+      "location": "Multiple school districts and public libraries across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "age-inappropriate material"
+      ],
+      "outcome": "#1 most challenged in 2003. Appeared on ALA Top 10 list seven consecutive years. Removed or restricted in multiple libraries."
+    },
+    {
+      "title": "Eleanor & Park",
+      "author": "Rainbow Rowell",
+      "year_published": 2013,
+      "years_challenged": [2013, 2016],
+      "location": "Anoka-Hennepin School District, MN",
+      "reason_for_challenge": [
+        "profanity (227 instances cited)",
+        "sexually explicit content",
+        "depictions of domestic violence and poverty"
+      ],
+      "outcome": "Removed from Anoka-Hennepin School District, MN; Rowell's speaking invitation rescinded and disciplinary action sought against librarians who selected it."
+    },
+    {
+      "title": "Out of Darkness",
+      "author": "Ashley Hope Perez",
+      "year_published": 2015,
+      "years_challenged": [2021, 2022, 2023],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "depictions of abuse"
+      ],
+      "outcome": "Received 50 documented challenges in 2022 alone; ranked #9 on ALA's Top 13 Most Challenged Books of 2022. Removed in multiple districts."
+    },
+    {
+      "title": "A Court of Mist and Fury",
+      "author": "Sarah J. Maas",
+      "year_published": 2016,
+      "years_challenged": [2022],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "age-inappropriate"
+      ],
+      "outcome": "Ranked #10 on ALA's Top 13 Most Challenged Books of 2022. Removed from multiple school libraries."
+    },
+    {
+      "title": "This Book is Gay",
+      "author": "Juno Dawson",
+      "year_published": 2014,
+      "years_challenged": [2021, 2022, 2023, 2024],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "sexually explicit content",
+        "sex education material"
+      ],
+      "outcome": "Banned, challenged, relocated, and restricted across multiple districts. Appeared on ALA Top 10 list in 2021, 2022, 2023, and 2024."
+    },
+    {
+      "title": "Drama",
+      "author": "Raina Telgemeier",
+      "year_published": 2012,
+      "years_challenged": [2014, 2016, 2017, 2018],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "age-inappropriate",
+        "sexually explicit content"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2014, 2016, 2017, and 2018. Removed or restricted in multiple school libraries."
+    },
+    {
+      "title": "Gossip Girl series",
+      "author": "Cecily von Ziegesar",
+      "year_published": 2002,
+      "years_challenged": [2006, 2008, 2011],
+      "location": "Multiple school districts and public libraries across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "offensive language",
+        "drug and alcohol use"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2006, 2008, and 2011. Removed or restricted in multiple libraries."
+    },
+    {
+      "title": "What My Mother Doesn't Know",
+      "author": "Sonya Sones",
+      "year_published": 2001,
+      "years_challenged": [2004, 2005, 2007, 2009, 2010],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "age-inappropriate"
+      ],
+      "outcome": "Appeared on ALA Top 10 list five times (2004, 2005, 2007, 2009, 2010). Removed or restricted in multiple school libraries."
+    },
+    {
+      "title": "Beyond Magenta: Transgender Teens Speak Out",
+      "author": "Susan Kuklin",
+      "year_published": 2014,
+      "years_challenged": [2015, 2019, 2021],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "sexually explicit content",
+        "age-inappropriate",
+        "transgender themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2015, 2019, and 2021. Removed or restricted in multiple districts."
+    },
+    {
+      "title": "Sold",
+      "author": "Patricia McCormick",
+      "year_published": 2006,
+      "years_challenged": [2022, 2023, 2024],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "depictions of rape and human trafficking",
+        "age-inappropriate"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2022, 2023, and 2024. Removed from multiple school libraries."
+    },
+    {
+      "title": "The Earth, My Butt, and Other Big Round Things",
+      "author": "Carolyn Mackler",
+      "year_published": 2003,
+      "years_challenged": [2006, 2011],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "offensive language",
+        "anti-family content"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2006 and 2011. Removed or restricted in multiple school libraries."
+    },
+    {
+      "title": "My Sister's Keeper",
+      "author": "Jodi Picoult",
+      "year_published": 2004,
+      "years_challenged": [2009],
+      "location": "Multiple school districts and public libraries across the United States",
+      "reason_for_challenge": [
+        "sexual content",
+        "offensive language",
+        "death and illness themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2009. Removed or restricted in some libraries."
+    },
+    {
+      "title": "Fifty Shades of Grey",
+      "author": "E.L. James",
+      "year_published": 2011,
+      "years_challenged": [2012, 2013, 2015],
+      "location": "Multiple public libraries across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "age-inappropriate",
+        "BDSM themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2012, 2013, and 2015. Removed from some public library systems."
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "year_published": 2003,
+      "years_challenged": [2013, 2014],
+      "location": "Chicago Public Schools, IL; multiple districts",
+      "reason_for_challenge": [
+        "age-inappropriate content",
+        "graphic violence",
+        "offensive language"
+      ],
+      "outcome": "Temporarily pulled from Chicago Public Schools 7th-grade curriculum and all district warehouses (2013) before being reinstated after public outcry. Ranked #2 on ALA Top 10 list in 2014."
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "author": "Katherine Paterson",
+      "year_published": 1977,
+      "years_challenged": [1990, 1996, 2002, 2003],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "occult themes",
+        "offensive language",
+        "violence",
+        "death themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 lists in 2002 and 2003. Removed or restricted in some school libraries."
+    },
+    {
+      "title": "Roll of Thunder, Hear My Cry",
+      "author": "Mildred D. Taylor",
+      "year_published": 1976,
+      "years_challenged": [2002],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "racial slurs and offensive language",
+        "racial themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2002. Challenged in multiple school districts."
+    },
+    {
+      "title": "Fun Home: A Family Tragicomic",
+      "author": "Alison Bechdel",
+      "year_published": 2006,
+      "years_challenged": [2015, 2016],
+      "location": "College of Charleston, SC; multiple college campuses and public libraries",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "sexually explicit content",
+        "age-inappropriate"
+      ],
+      "outcome": "SC state legislators threatened to cut funding to College of Charleston for including it in a summer reading program (2014). Appeared on ALA Top 10 list in 2015."
+    },
+    {
+      "title": "Nickel and Dimed: On (Not) Getting By in America",
+      "author": "Barbara Ehrenreich",
+      "year_published": 2001,
+      "years_challenged": [2010, 2011],
+      "location": "Multiple school districts and colleges across the United States",
+      "reason_for_challenge": [
+        "political viewpoint",
+        "anti-Christian sentiment",
+        "offensive language",
+        "\"socialist\" themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2010. Challenged at multiple colleges where it was assigned as summer reading."
+    },
+    {
+      "title": "A Day in the Life of Marlon Bundo",
+      "author": "Jill Twiss",
+      "year_published": 2018,
+      "years_challenged": [2018, 2019],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "age-inappropriate",
+        "same-sex marriage themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2018 and 2019. Removed or restricted in some school libraries."
+    },
+    {
+      "title": "This One Summer",
+      "author": "Mariko Tamaki",
+      "year_published": 2014,
+      "years_challenged": [2016, 2018],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "LGBTQ+ content",
+        "sexually explicit content",
+        "drug and alcohol use",
+        "offensive language"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2016 and 2018. Removed or restricted in multiple school libraries."
+    },
+    {
+      "title": "Summer of My German Soldier",
+      "author": "Bette Greene",
+      "year_published": 1973,
+      "years_challenged": [1978, 1990, 2001],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "offensive language and racial slurs",
+        "violence",
+        "pro-Nazi framing concerns"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2001. Challenged in multiple school districts; retained in most cases."
+    },
+    {
+      "title": "Blood and Chocolate",
+      "author": "Annette Curtis Klause",
+      "year_published": 1997,
+      "years_challenged": [2001],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexual content",
+        "violence",
+        "occult and werewolf themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2001. Removed or restricted in some school libraries."
+    },
+    {
+      "title": "A Bad Boy Can Be Good for a Girl",
+      "author": "Tanya Lee Stone",
+      "year_published": 2006,
+      "years_challenged": [2013],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexually explicit content",
+        "offensive language",
+        "age-inappropriate"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2013. Removed or restricted in some school libraries."
+    },
+    {
+      "title": "Lush",
+      "author": "Natasha Friend",
+      "year_published": 2006,
+      "years_challenged": [2010],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "offensive language",
+        "alcohol abuse themes",
+        "age-inappropriate"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2010. Challenged in some school libraries."
+    },
+    {
+      "title": "Nasreen's Secret School: A True Story from Afghanistan",
+      "author": "Jeanette Winter",
+      "year_published": 2009,
+      "years_challenged": [2015],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "violence",
+        "age-inappropriate content"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2015. Challenged in some school libraries."
+    },
+    {
+      "title": "Something Happened in Our Town: A Child's Story About Racial Injustice",
+      "author": "Marianne Celano, Marietta Collins, and Ann Hazzard",
+      "year_published": 2018,
+      "years_challenged": [2020],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "racial content",
+        "anti-police sentiment",
+        "age-inappropriate",
+        "divisive social themes"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2020. Removed or restricted in some school libraries."
+    },
+    {
+      "title": "Julie of the Wolves",
+      "author": "Jean Craighead George",
+      "year_published": 1972,
+      "years_challenged": [1994, 2002],
+      "location": "Multiple school districts across the United States",
+      "reason_for_challenge": [
+        "sexual content",
+        "violence",
+        "animal cruelty"
+      ],
+      "outcome": "Appeared on ALA Top 10 list in 2002. Removed or restricted in some school libraries."
+    }
+  ]
+}
