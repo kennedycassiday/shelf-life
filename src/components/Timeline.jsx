@@ -44,7 +44,7 @@ export default function Timeline() {
         <div className="tl-nodes">
           {decades.map(d => {
             const isActive = openDecade === d.decade
-            const radius = 10 + (d.totalEvents / maxEvents) * 22
+            const radius = 7 + (d.totalEvents / maxEvents) * 21
             return (
               <button
                 key={d.decade}
@@ -52,15 +52,17 @@ export default function Timeline() {
                 onClick={() => toggle(d.decade)}
                 title={`${d.decade}s: ${d.totalEvents} challenges`}
               >
-                <div
-                  className="tl-node-ring"
-                  style={{ width: radius * 2, height: radius * 2 }}
-                />
-                <div
-                  className="tl-node-dot"
-                  style={{ width: radius * 2, height: radius * 2 }}
-                />
                 <span className="tl-node-label">{d.decade}s</span>
+                <div className="tl-node-dot-wrap">
+                  <div
+                    className="tl-node-ring"
+                    style={{ width: radius * 2 + 14, height: radius * 2 + 14 }}
+                  />
+                  <div
+                    className="tl-node-dot"
+                    style={{ width: radius * 2, height: radius * 2 }}
+                  />
+                </div>
                 <span className="tl-node-count">{d.totalEvents}</span>
               </button>
             )
