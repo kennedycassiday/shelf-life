@@ -11,7 +11,7 @@
       "CMU Banned Books Project — bannedbooks.library.cmu.edu"
     ],
     "date_compiled": "2026-04-07",
-    "total_entries": 46,
+    "total_entries": 45,
     "notes": "years_challenged lists years the title appeared on the ALA Top 10 list and/or years of documented formal challenges. location reflects the most notable or documented challenge sites; many books faced challenges across dozens of districts. outcome reflects the most commonly documented result; individual challenge outcomes vary by district."
   },
   "books": [
@@ -89,20 +89,6 @@
         "LGBTQ+ characters"
       ],
       "outcome": "Superintendent's ban overturned in Judson, TX. Downgraded from required to optional in Upper Moreland, PA. Banned from high school libraries in Madison County, VA. Removed from 29 titles list in Goddard, KS (2021). Temporarily banned in Edmonton, Alberta; ban paused after public backlash."
-    },
-    {
-      "title": "Harry Potter series",
-      "author": "J.K. Rowling",
-      "year_published": 1997,
-      "years_challenged": [1999, 2000, 2001, 2002, 2003, 2006, 2019],
-      "location": "Alamogordo, NM (book burning, 2001); Gwinnett County, GA (2006); St. Edward School, Nashville, TN",
-      "reason_for_challenge": [
-        "witchcraft and occult content",
-        "religious objections",
-        "promotion of Wicca",
-        "conjuring evil spirits"
-      ],
-      "outcome": "Book burning held in Alamogordo, NM (2001). School Board upheld retention in Gwinnett County, GA. Removed from St. Edward Catholic School library, Nashville, TN. Ranked #1 most challenged 2001, 2002, 2003; appeared on 2019 Top 10 list."
     },
     {
       "title": "Forever",

@@ -152,10 +152,10 @@ export const ALIASES = {
   'College of Charleston, SC': 'College of Charleston, SC',
   'Upper Moreland, PA': 'Upper Moreland, PA',
   'Morgantown, NC': 'Morgantown, NC',
-  'St. Edward School, Nashville, TN': 'Nashville, TN',
+  'Judson Independent School District, TX': 'Judson, TX',
   'Brockbank Junior High, Magna, UT': 'Magna, UT',
   'Austin Memorial Library, Cleveland, TX': 'Cleveland, TX',
   'Virginia State Senate': 'Virginia',
   'Eastern High School': 'Louisville, KY',
-  'Alamogordo, NM (book burning, 2001)': 'Alamogordo, NM',
+  'Brockbank Junior High School, Magna, UT': 'Magna, UT',
 }

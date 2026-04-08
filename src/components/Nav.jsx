@@ -3,10 +3,12 @@ export default function Nav({ active, onSelect }) {
 
   return (
     <nav className="nav">
-      <div className="nav-brand">
+      <button className="nav-brand" onClick={() => onSelect('Home')}>
         <span className="nav-brand-mark">◆</span>
         <span className="nav-brand-text">SHELF LIFE</span>
-      </div>
+        <span className="nav-brand-sub">A Censorship Archive</span>
+      </button>
+
       <div className="nav-tabs">
         {tabs.map(tab => (
           <button
@@ -17,6 +19,10 @@ export default function Nav({ active, onSelect }) {
             {tab}
           </button>
         ))}
+      </div>
+
+      <div className="nav-end">
+        <span className="nav-end-text">Books by women authors</span>
       </div>
     </nav>
   )
